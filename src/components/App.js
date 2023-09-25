@@ -4,11 +4,9 @@ const App = () => {
   return (
     <div id="main">
                <ol key="relativeList">
-                <li key="Amit">Amit</li>
-                <li key="Suman">Suman</li>
-                <li key="Rajesh">Rajesh</li>
-                <li key="Priya">Priya</li>
-                <li key="Neeta">Neeta</li>
+                <li key="relativeListItem1">Amit</li>
+                <li key="relativeListItem2">Suman</li>
+                
 </ol>
     </div>
   )
